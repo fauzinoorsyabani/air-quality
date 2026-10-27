@@ -5,9 +5,8 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/fauzinoorsyabani/air-quality)
+[![Open In Colab](https://img.shields.io/badge/Colab-Run_in_Cloud-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/fauzinoorsyabani/air-quality/blob/main/air_quality_analysis_and_modeling.ipynb)
 [![Visuals: 300 DPI](https://img.shields.io/badge/Visuals-300_DPI_Publication-22c55e?style=for-the-badge)](portfolio_assets/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -16,7 +15,7 @@
 **An end-to-end, production-grade machine learning pipeline and environmental forensics case study.**  
 Evaluating multi-sensor chemical telemetry, physical zero-drift baseline corrections, atmospheric feature formulations, and dual-objective modeling ($PM_{2.5}$ continuous regression & zero-leakage air health hazard classification).
 
-[**Portfolio Case Study**](https://fauziasyabani.portfolio.web.id) · [**Explore Notebook**](air_quality_analysis_and_modeling.ipynb) · [**View Scientific Assets**](portfolio_assets/) · [**Connect on LinkedIn**](https://linkedin.com/in/fauzinoorsyabani)
+[**Live Portfolio Case Study**](https://fauziasyabani.portfolio.web.id) · [**Run on Google Colab**](https://colab.research.google.com/github/fauzinoorsyabani/air-quality/blob/main/air_quality_analysis_and_modeling.ipynb) · [**Explore Master Notebook**](air_quality_analysis_and_modeling.ipynb) · [**View Scientific Assets**](portfolio_assets/) · [**Connect on LinkedIn**](https://linkedin.com/in/fauzinoorsyabani)
 
 </div>
 
