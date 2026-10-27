@@ -293,21 +293,6 @@ All figures were rendered at **300 DPI** using Matplotlib and Seaborn with custo
 
 ---
 
-## 🎯 FAANG Interview Narrative (STAR Framework)
-
-When discussing this project with engineering leaders and machine learning hiring managers:
-
-- **Situation:**  
-  *"Municipalities struggle with deploying city-scale air pollution monitoring due to the prohibitive cost ($15,000+) and high maintenance overhead of optical particulate sensors in dusty environments."*
-- **Task:**  
-  *"I was tasked with architecting a robust, production-grade dual-objective ML pipeline to forecast PM2.5 concentrations and detect air health hazards solely from low-cost electrochemical gas telemetry, while preventing data leakage."*
-- **Action:**  
-  *"I designed a modular pipeline in Python incorporating physical non-negative clipping for sensor zero-drift, engineered domain atmospheric chemistry features (Combustion Index, Nitrogen Oxidation Ratio), and enforced an anti-leakage protocol by strictly isolating PM ground truth from classification features. I benchmarked regularized linear baselines against Random Forest and XGBoost using Stratified 5-Fold Cross Validation."*
-- **Result:**  
-  *"XGBoost achieved a 0.6670 R² with normally distributed zero-mean residuals for continuous PM2.5 forecasting, and boosted macro F1-score to 0.6048 (+30.4% over baseline) with 74% recall on hazardous conditions. The architecture was exported into 8 publication-grade diagnostic artifacts (300 DPI) for production decision support."*
-
----
-
 ## 📂 Repository Structure
 
 ```text
@@ -369,7 +354,7 @@ This script will parse the raw telemetry, compute all cross-validation folds, fi
 
 **Fauzi Noorsyabani**  
 *Full Stack AI Engineer · Information Systems (Universitas Siliwangi, GPA 3.89/4.00, Cum Laude)*  
-Google Student Ambassador Campus Lead · Capstone Lead Pijak × IBM SkillsBuild
+Google Student Ambassador · Capstone Lead Pijak × IBM SkillsBuild
 
 - **Portfolio Website:** [fauziasyabani.portfolio.web.id](https://fauziasyabani.portfolio.web.id)
 - **LinkedIn:** [linkedin.com/in/fauzinoorsyabani](https://linkedin.com/in/fauzinoorsyabani)
